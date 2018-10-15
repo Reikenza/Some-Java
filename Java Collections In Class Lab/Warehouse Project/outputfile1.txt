@@ -1,0 +1,50 @@
+=====================================================
+          Food Item Statistics Report                
+              as of : 05/04/2010
+           All Warehouses Reporting                  
+=====================================================
+Columbus
+	0353264991	chestnut puree with vanilla
+		Stock Received: 9
+		Stock Requested: 4		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 9
+
+	0984523912	the orange box
+		Stock Received: 10
+		Stock Requested: 4		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 2		Spoilage: 		20%
+		Stock On Hand: 8
+
+Scottsdale
+	0353264991	chestnut puree with vanilla
+		Stock Received: 2
+		Stock Requested: 3		Requests Filled: 66.67%
+		Stock Shipped Out: 2
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 0
+
+	0984523912	the orange box
+		Stock Received: 0
+		Stock Requested: 8		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+Tacoma
+	0353264991	chestnut puree with vanilla
+		Stock Received: 6
+		Stock Requested: 10		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 6		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0984523912	the orange box
+		Stock Received: 7
+		Stock Requested: 13		Requests Filled: 38.46%
+		Stock Shipped Out: 5
+		Stock Expired: 2		Spoilage: 		28.57%
+		Stock On Hand: 0
+

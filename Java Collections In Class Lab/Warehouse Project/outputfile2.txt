@@ -1,0 +1,164 @@
+=====================================================
+          Food Item Statistics Report                
+              as of : 05/07/2010
+           All Warehouses Reporting                  
+=====================================================
+Chandler
+	0227396674	swiss miss no sugar added cocoa
+		Stock Received: 0
+		Stock Requested: 4		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+	0289016410	organic fruit munchies
+		Stock Received: 0
+		Stock Requested: 11		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+	0347866846	slice one orange soda
+		Stock Received: 0
+		Stock Requested: 1		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+	0814194965	for maximum value chocolate chip cookies
+		Stock Received: 15
+		Stock Requested: 9		Requests Filled: 77.78%
+		Stock Shipped Out: 7
+		Stock Expired: 8		Spoilage: 		53.33%
+		Stock On Hand: 0
+
+Fullerton
+	0289016410	organic fruit munchies
+		Stock Received: 11
+		Stock Requested: 4		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 11		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0347866846	slice one orange soda
+		Stock Received: 4
+		Stock Requested: 0		Requests Filled: N/A
+		Stock Shipped Out: 0
+		Stock Expired: 4		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0814194965	for maximum value chocolate chip cookies
+		Stock Received: 9
+		Stock Requested: 0		Requests Filled: N/A
+		Stock Shipped Out: 0
+		Stock Expired: 9		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0848751468	elan frozen coffee yogurt
+		Stock Received: 1
+		Stock Requested: 1		Requests Filled: 100%
+		Stock Shipped Out: 1
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 0
+
+Mobile
+	0227396674	swiss miss no sugar added cocoa
+		Stock Received: 8
+		Stock Requested: 2		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 8
+
+	0347866846	slice one orange soda
+		Stock Received: 3
+		Stock Requested: 1		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 3
+
+	0814194965	for maximum value chocolate chip cookies
+		Stock Received: 0
+		Stock Requested: 8		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+	0848751468	elan frozen coffee yogurt
+		Stock Received: 14
+		Stock Requested: 2		Requests Filled: 100%
+		Stock Shipped Out: 2
+		Stock Expired: 7		Spoilage: 		50%
+		Stock On Hand: 5
+
+Modesto
+	0227396674	swiss miss no sugar added cocoa
+		Stock Received: 4
+		Stock Requested: 10		Requests Filled: 10%
+		Stock Shipped Out: 1
+		Stock Expired: 3		Spoilage: 		75%
+		Stock On Hand: 0
+
+	0289016410	organic fruit munchies
+		Stock Received: 1
+		Stock Requested: 7		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 1		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0347866846	slice one orange soda
+		Stock Received: 8
+		Stock Requested: 18		Requests Filled: 38.89%
+		Stock Shipped Out: 7
+		Stock Expired: 1		Spoilage: 		12.5%
+		Stock On Hand: 0
+
+	0814194965	for maximum value chocolate chip cookies
+		Stock Received: 3
+		Stock Requested: 7		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 3		Spoilage: 		100%
+		Stock On Hand: 0
+
+	0848751468	elan frozen coffee yogurt
+		Stock Received: 10
+		Stock Requested: 0		Requests Filled: N/A
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 10
+
+Springfield
+	0227396674	swiss miss no sugar added cocoa
+		Stock Received: 36
+		Stock Requested: 1		Requests Filled: 100%
+		Stock Shipped Out: 1
+		Stock Expired: 31		Spoilage: 		86.11%
+		Stock On Hand: 4
+
+	0289016410	organic fruit munchies
+		Stock Received: 13
+		Stock Requested: 6		Requests Filled: 66.67%
+		Stock Shipped Out: 4
+		Stock Expired: 9		Spoilage: 		69.23%
+		Stock On Hand: 0
+
+	0347866846	slice one orange soda
+		Stock Received: 2
+		Stock Requested: 0		Requests Filled: N/A
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 2
+
+	0814194965	for maximum value chocolate chip cookies
+		Stock Received: 0
+		Stock Requested: 3		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		N/A
+		Stock On Hand: 0
+
+	0848751468	elan frozen coffee yogurt
+		Stock Received: 13
+		Stock Requested: 5		Requests Filled: 0%
+		Stock Shipped Out: 0
+		Stock Expired: 0		Spoilage: 		0%
+		Stock On Hand: 13
+
