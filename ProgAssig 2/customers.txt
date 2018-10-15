@@ -1,0 +1,57 @@
+yes
+Abe
+Madison Square Garden
+15 East 60th Street
+yes
+Ben
+Yankee Stadium
+515 East Tremont
+yes
+Cam
+MetLife Stadium
+17 Park Slope
+yes
+Dan
+La Guardia Airport
+1132 Park Avenue
+yes
+Eli
+Carnegie Hall
+3500 Broadway
+yes
+Flo
+Battery Park
+878 Astoria Boulevard
+yes
+Gil
+Wall Street
+1400 Riverside Drive
+yes
+Hal
+Freedom Tower
+655 Second Avenue
+yes
+Ian
+Westchester County Center
+75 Grasslands Avenue
+yes
+Jim
+Kennedy Airport
+2107 Tillary Street
+yes
+Kim
+Aqueduct Raceway
+579 Jackson Avenue
+yes
+Liv
+Sprain Lake Golf Course
+St. Eugene Curch
+yes
+Max
+Westchester Community College
+1200 Virginia Road
+yes
+Nan
+White Plains Station
+Hamilton and Broadway
+no
